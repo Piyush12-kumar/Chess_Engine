@@ -6,8 +6,14 @@
 <h1 align="center">♟️ <span style="color:#4B8BBE">Chess Engine</span> ♟️</h1>
 
 <p align="center">
-  <b>A beautiful, feature-rich Python chess engine with a stunning GUI.</b><br>
-  <sub>Play, learn, and explore the world of chess with style.</sub>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GUI-Pygame-green?logo=pygame&logoColor=white" alt="Pygame"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
+</p>
+
+<p align="center">
+  <b>A stunning Python chess engine with a beautiful GUI and custom piece art.</b><br>
+  <sub>Play, learn, and enjoy chess in style!</sub>
 </p>
 
 ---
@@ -49,7 +55,7 @@ images/              # Chess piece images (PNG)
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chess-engine.git
+   git clone https://github.com/Piyush12-kumar/Chess_Engine
    ```
 2. Install dependencies (if any):
    ```bash
